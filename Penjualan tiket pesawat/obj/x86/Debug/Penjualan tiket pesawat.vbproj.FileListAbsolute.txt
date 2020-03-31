@@ -1,0 +1,18 @@
+E:\gb\Aplikasi Penjualan Tiket Pesawat\Penjualan tiket pesawat\obj\x86\Debug\Penjualan_tiket_pesawat.Resources.resources
+E:\gb\Aplikasi Penjualan Tiket Pesawat\Penjualan tiket pesawat\obj\x86\Debug\Penjualan tiket pesawat.vbproj.GenerateResource.Cache
+E:\gb\Aplikasi Penjualan Tiket Pesawat\Penjualan tiket pesawat\obj\x86\Debug\Penjualan_tiket_pesawat.form_login.resources
+E:\gb\Aplikasi Penjualan Tiket Pesawat\Penjualan tiket pesawat\bin\Debug\Penjualan tiket pesawat.exe
+E:\gb\Aplikasi Penjualan Tiket Pesawat\Penjualan tiket pesawat\bin\Debug\Penjualan tiket pesawat.pdb
+E:\gb\Aplikasi Penjualan Tiket Pesawat\Penjualan tiket pesawat\bin\Debug\Penjualan tiket pesawat.xml
+E:\gb\Aplikasi Penjualan Tiket Pesawat\Penjualan tiket pesawat\obj\x86\Debug\Penjualan tiket pesawat.exe
+E:\gb\Aplikasi Penjualan Tiket Pesawat\Penjualan tiket pesawat\obj\x86\Debug\Penjualan tiket pesawat.xml
+E:\gb\Aplikasi Penjualan Tiket Pesawat\Penjualan tiket pesawat\obj\x86\Debug\Penjualan tiket pesawat.pdb
+E:\gb\Aplikasi Penjualan Tiket Pesawat\Penjualan tiket pesawat\obj\x86\Debug\Penjualan_tiket_pesawat.Ftambah.resources
+E:\gb\Aplikasi Penjualan Tiket Pesawat\Penjualan tiket pesawat\obj\x86\Debug\Penjualan_tiket_pesawat.Fregis.resources
+E:\gb\Aplikasi Penjualan Tiket Pesawat\Penjualan tiket pesawat\obj\x86\Debug\Penjualan_tiket_pesawat.Fedit.resources
+E:\gb\Aplikasi Penjualan Tiket Pesawat\Penjualan tiket pesawat\obj\x86\Debug\Penjualan_tiket_pesawat.Fcrud.resources
+E:\gb\Aplikasi Penjualan Tiket Pesawat\Penjualan tiket pesawat\obj\x86\Debug\Penjualan_tiket_pesawat.Fmaster.resources
+E:\gb\Aplikasi Penjualan Tiket Pesawat\Penjualan tiket pesawat\obj\x86\Debug\Penjualan_tiket_pesawat.FdataTransaksi.resources
+E:\gb\Aplikasi Penjualan Tiket Pesawat\Penjualan tiket pesawat\obj\x86\Debug\Penjualan_tiket_pesawat.Fadmin.resources
+E:\gb\Aplikasi Penjualan Tiket Pesawat\Penjualan tiket pesawat\obj\x86\Debug\Penjualan_tiket_pesawat.Form1.resources
+E:\gb\Aplikasi Penjualan Tiket Pesawat\Penjualan tiket pesawat\obj\x86\Debug\Penjualan_tiket_pesawat.Form2.resources

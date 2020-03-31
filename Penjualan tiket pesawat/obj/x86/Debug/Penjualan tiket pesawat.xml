@@ -1,0 +1,128 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Penjualantiketpesawat
+</name>
+</assembly>
+<members>
+<member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.admin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.admin1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.andre_tan_Tzv_q3afbMc_unsplash">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.ethan_mcarthur_X_MOr6oa4_k_unsplash">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.fingerprint">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.fingerprint1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.group">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.kartik_chaturvedi_TOVsPNfWz38_unsplash">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.key">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.lap_data_master">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.lap_data_master1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.man">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.man_user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.rak_buku">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.save_file">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.sign_out">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.teacher">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.teacher1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.transaction__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.transaction__3_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.transaction__3_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.transaction__3_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.transaction__4_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.transaction4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Penjualan_tiket_pesawat.My.Resources.Resources.unauthorized_person">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Penjualan_tiket_pesawat.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
